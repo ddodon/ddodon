@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=DonDon%20👻&fontSize=90)
-
 <div align=center>
-- 🌱 I’m currently learning Deep learning 
+🌱 I’m currently learning Deep learning 
+</div>
 <br>  
+<div align=center>
+
 ## 🔥 t e c h 🔥
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow)](https://github.com/ddodon)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=orange)](https://github.com/ddodon)
@@ -31,8 +33,9 @@ Here are some ideas to get you started:
   
   
 ## 🌝 c o n t a c t 🌝
-[![Tistory](https://img.shields.io/badge/Tistory-FFFFFF?style=flat-square&logo=Tistory&logoColor=orange)](https://xiangddun.tistory.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=red)](mailto:donms97n@gmail.com)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=orange)](https://xiangddun.tistory.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:donms97n@gmail.com)
+[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/happymoney_._._/)
 <br>  
 
   
