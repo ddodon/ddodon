@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
   
 ## 🌝 c o n t a c t 🌝
-[![Tistory](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=blogger&logoColor=orange)](https://xiangddun.tistory.com/)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=orange)](https://xiangddun.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=red)](mailto:donms97n@gmail.com)
 <br>  
 
