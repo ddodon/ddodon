@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=DonDon%20👻&fontSize=90)
 
 <div align=center>
+
 ## 🔥 t e c h 🔥
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow)](https://github.com/ddodon)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=orange)](https://github.com/ddodon)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)](https://github.com/ddodon)
 <br>
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=orange)](https://github.com/ddodon)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)](https://github.com/ddodon)
+[![Python](https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=yellow)](https://github.com/ddodon)
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=blue)](https://github.com/ddodon)
+[![Adobe](https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=AdobeInDesign&logoColor=white)](https://github.com/ddodon)
   
   
   
@@ -40,6 +42,6 @@ Here are some ideas to get you started:
   
   
 <br><br><br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddodon&layout=compact&theme=outrun&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddodon&layout=compact&theme=outrun&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
