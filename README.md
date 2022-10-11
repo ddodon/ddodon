@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=DonDon%20👻&fontSize=90)
 
 <div align=center>
-
 ## 🔥 t e c h 🔥
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow)](https://github.com/ddodon)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=orange)](https://github.com/ddodon)
@@ -41,6 +40,6 @@ Here are some ideas to get you started:
   
   
 <br><br><br><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddodon&layout=compact&theme=outrun&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddodon&layout=compact&theme=&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
