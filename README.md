@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow)](https://github.com/ddodon)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=orange)](https://github.com/ddodon)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)](https://github.com/ddodon)
-[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/ddodon)
 <br>  
   
   
@@ -31,14 +30,14 @@ Here are some ideas to get you started:
   
   
 ## 🌝 c o n t a c t 🌝
-  
-  
-  
-  
+[![Tistory](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=blogger&logoColor=orange)](https://xiangddun.tistory.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=red)](mailto:donms97n@gmail.com)
+<br>  
+
   
 ### 🎃  t o d a y  🎃
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddodon&count_bg=%23555555&title_bg=%23FF0000&icon=pjsip.svg&icon_color=%23AEAEAE&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
   
   
-  
-  
-  
+<br><br><br><br><br>
+</div>  
