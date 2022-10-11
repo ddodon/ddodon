@@ -42,6 +42,7 @@ Here are some ideas to get you started:
   
   
 <br><br><br><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddodon&layout=compact&theme=outrun&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddodon&layout=compact&theme=outrun&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
