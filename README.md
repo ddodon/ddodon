@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow)](https://github.com/ddodon)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=orange)](https://github.com/ddodon)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)](https://github.com/ddodon)
+[![Flutter](https://img.shields.io/badge/Flutter-0175C2?style=flat-square&logo=Flutter&logoColor=white)](https://github.com/ddodon)
 <br>
 [![Python](https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=yellow)](https://github.com/ddodon)
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=blue)](https://github.com/ddodon)
